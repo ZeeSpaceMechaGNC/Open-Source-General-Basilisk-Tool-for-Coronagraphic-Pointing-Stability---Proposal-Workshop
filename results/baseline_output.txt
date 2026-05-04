@@ -1,0 +1,21 @@
+
+  hinf  fi=1.0 Hz  5.0 s
+  X: gmin=1.000  gused=2.000
+  Y: gmin=1.000  gused=2.000
+  Z: gmin=1.000  gused=2.000
+  K_X = [3.34, 666, 0.28, 56.3]
+  K_Y = [3.34, 666, 0.28, 56.3]
+  K_Z = [3.30, 419, 0.33, 41.9]
+  jitter X/Y/Z: 4.465e-07 / 1.261e-06 / 8.063e-06 mrad  rss: 1.338e-06
+  est err rss: 2.450e-06 mrad  beamwalk: 159 pm  contrast: 1.00e-10
+  margins X: gm=inf, pm=70.5 deg
+  margins Y: gm=inf, pm=70.5 deg
+  margins Z: gm=inf, pm=70.5 deg
+
+  budget
+  contrast:      1.00e-10  /  req < 2e-10  (mech 1.05e-13, floor 1.00e-10)
+  beamwalk:      159 pm  /  req < 5500 pm
+  jitter rss:    0.28 mas  /  req < 7.0 mas  (X 0.09, Y 0.26, Z 1.66)
+  est err rss:   0.51 mas  /  req < 3.0 mas
+  struct:        ok (0.88 x omega @ 17.6 Hz, 17.3% from 15.0 Hz)
+  saved: C:\Users\fsale\Documents\For Upload\New\New CV\Basilisk Projects\hwo-pointing-pipeline\src\dashboard.png

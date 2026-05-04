@@ -1,0 +1,10 @@
+
+  isolation frequency sweep
+  f_iso=0.1: jitter=0.09 mas  C=1.00e-10
+  f_iso=0.3: jitter=0.35 mas  C=1.00e-10
+  f_iso=0.5: jitter=0.31 mas  C=1.00e-10
+  f_iso=1.0: jitter=0.30 mas  C=1.00e-10
+  f_iso=2.0: jitter=0.30 mas  C=1.00e-10
+  f_iso=5.0: jitter=0.29 mas  C=1.00e-10
+  saved: C:\Users\fsale\Documents\For Upload\New\New CV\Basilisk Projects\hwo-pointing-pipeline\src\sweep.png
+=== SWEEP DONE ===
